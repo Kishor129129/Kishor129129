@@ -42,4 +42,4 @@
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:yourmail@gmail.com) • [Portfolio](https://your-portfolio-link)
+[LinkedIn](www.linkedin.com/in/kishor-atada-1182272b5) • [Email](mailto:kishoratada@gmail.com) • [Portfolio](https://your-portfolio-link)
