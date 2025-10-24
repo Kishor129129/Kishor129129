@@ -48,49 +48,78 @@ Transform data into insights with natural language!
 </td>
 <td width="50%">
 
-### 🌿 [Videtect](https://github.com/1ds20ai026/Videtect)
-**Plant Disease Detection System**
+### 💼 Retail Revenue Intelligence Platform
+**AI-Powered Retail Analytics Warehouse**
 
-Deep Learning model for agricultural health monitoring
+**Achievements:**
+- 📊 Built 35+ data models with DuckDB, dbt & star schema
+- 🔄 Orchestrated with Prefect achieving 96% pass rate (120+ tests)
+- 📈 90% reduction in manual reporting via Power BI dashboards
+- 🤖 Automated PDF/Excel reporting using AI insights via Gemini
 
-**Features:**
-- 🖼️ Image-based disease detection
-- 🧠 CNN architecture
-- 📱 Real-time predictions
-
-**Tech:** Python, TensorFlow, CNN, OpenCV
+**Tech:** Python, DuckDB, dbt, Prefect, Power BI
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💬 [BardBrainAI](https://github.com/1ds20ai026/BardBrainAI)
-**Generative AI Chatbot**
+### ⚡ Energy Demand Analytics & Forecasting Platform
+**Time Series Forecasting with ML**
 
-Intelligent conversational AI using LLMs
+**Achievements:**
+- 🎯 97.16% accuracy with XGBoost on 50K+ hourly grid records
+- 🌍 37 European countries, 33+ time series features (2.84% MAPE)
+- 📊 Three-page Power BI dashboard for demand patterns
+- 📓 Reproducible notebooks and forecast exports
 
-**Features:**
-- 🤖 Multi-model LLM support
-- 💭 Context-aware conversations
-- ⚡ Fast response with Groq
-
-**Tech:** LangChain, Groq, Streamlit, Python
+**Tech:** Python, XGBoost, Power BI, Time Series
 
 </td>
 <td width="50%">
 
-### 📊 [SyntheSmart](https://github.com/1ds20ai026/SyntheSmart)
-**Synthetic Data Generator**
+### 🤖 [AgentFlow](link)
+**Multi-Agent AI Research System**
 
-Generate realistic synthetic data for analytics
+**Achievements:**
+- ⏱️ 70% reduction in research report generation time
+- 🧠 6 specialized agents (Planner, Researcher, Analyst, Writer, Critic, QA)
+- 📊 85% source relevance score with intelligent discovery
+- 📄 1.5-2K word reports with 25-35 curated sources
+
+**Tech:** Python, LangGraph, FastAPI, PostgreSQL, Streamlit
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔧 GitHub MCP Server
+**AI-Powered Code Review Automation**
+
+**Achievements:**
+- ⚡ 40% reduction in code review time
+- 🤖 TypeScript MCP server with Gemini AI integration
+- 🔍 Automated PR analysis with intelligent summaries
+- ✅ 5 production-ready tools with 100% schema validation
+
+**Tech:** TypeScript, MCP, Gemini AI, JSON-RPC, Claude Desktop
+
+</td>
+<td width="50%">
+
+### 🚦 [Videtect](https://github.com/1ds20ai026/Videtect)
+**Traffic Surveillance System**
+
+AI-powered signal violation detection
 
 **Features:**
-- 🎲 Customizable data schemas
-- 📈 Statistical distributions
-- 💾 Multiple export formats
+- 🎯 YOLOv3-based object detection
+- 🚗 Vehicle tracking and identification
+- ⚠️ Signal violation detection
+- 🎥 Real-time video processing
 
-**Tech:** Python, Pandas, NumPy
+**Tech:** Python, YOLOv3, OpenCV, Deep Learning
 
 </td>
 </tr>
